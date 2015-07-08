@@ -1,0 +1,3 @@
+Median is 11
+Median is 12.500000
+Median is 14
