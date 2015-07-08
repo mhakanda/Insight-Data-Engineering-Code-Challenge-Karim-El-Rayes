@@ -1,7 +1,6 @@
 /****************************************************************/
 /*	Insight Data Engineering - Coding Challenge         	*/
 /*	Author: Karim El-Rayes				    	*/
-/*	Author's email: kelrayes@uwaterloo.ca		    	*/
 /*	Document: README.md				    	*/
 /*	Description: Instructions and guidelines for 	    	*/
 /*	build and run of the coding challenge source files. 	*/
